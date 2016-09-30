@@ -40,7 +40,7 @@
 			
 			if(device.ios,
 				<!-- iOS Safari has a very slow 'video-to-webgl-texture' transfer, therefore use a low-res video by default -->
-				videointerface_play(’1920x960’);
+				videointerface_play(’1024x512’);
 			  ,
 				videointerface_play('1920x960');
 			  );
