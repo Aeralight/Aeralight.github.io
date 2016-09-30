@@ -34,12 +34,12 @@
 
 		<!-- add the video sources and play the video -->
 		<action name="add_video_sources">
-			videointerface_addsource('1024x512’, '%CURRENTXML%/video-1024x512.mp4|%CURRENTXML%/video-1024x512.webm|%CURRENTXML%/iphone-audio.m4a', '%CURRENTXML%/video-1024x512-poster.jpg');
+			videointerface_addsource('1280x720’, '%CURRENTXML%/video-1280x720.mp4|%CURRENTXML%/video-1280x720.webm|%CURRENTXML%/iphone-audio.m4a', '%CURRENTXML%/video-1280x720-poster.jpg');
 			videointerface_addsource('1920x960', '%CURRENTXML%/video-1920x960.mp4|%CURRENTXML%/video-1920x960.webm|%CURRENTXML%/iphone-audio.m4a', '%CURRENTXML%/video-1920x960-poster.jpg');
 			
 			if(device.ios,
 				<!-- iOS Safari has a very slow 'video-to-webgl-texture' transfer, therefore use a low-res video by default -->
-				videointerface_play('1024x512');
+				videointerface_play('1280x720');
 			  ,
 				videointerface_play('1920x960');
 			  );
