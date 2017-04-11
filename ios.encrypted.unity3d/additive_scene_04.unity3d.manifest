@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2475378751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 476ee31353d1c04d34b8a535c02507bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/SmartSceneChanger/Demo Samples/Scenes/Additive Scene 04.unity
+Dependencies:
+- /Volumes/MacHD/Unitymap/SmartSceneChanger05/Assets/AssetBundles/ios.encrypted.unity3d/cube04.unity3d.hd
