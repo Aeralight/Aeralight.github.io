@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1666092943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd60dad6c4221ba98f04516723e1a47f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Test/Complete Scene.unity
+Dependencies: []
