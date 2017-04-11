@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 780498331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8986c9adbde357b3d14968006ae72865
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/SmartSceneChanger/Demo Samples/Scenes/Additive Scene 01.unity
+Dependencies:
+- /Volumes/MacHD/MestsoMap2017/MetsoIpad2017/MetsoViewerMac550f3IpadSSC01/Assets/AssetBundles/ios.encrypted.unity3d/casc/casc.unity3d
+- /Volumes/MacHD/MestsoMap2017/MetsoIpad2017/MetsoViewerMac550f3IpadSSC01/Assets/AssetBundles/ios.encrypted.unity3d/casb.unity3d
+- /Volumes/MacHD/MestsoMap2017/MetsoIpad2017/MetsoViewerMac550f3IpadSSC01/Assets/AssetBundles/ios.encrypted.unity3d/casa.unity3d.hd
