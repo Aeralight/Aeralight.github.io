@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3469431064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: baac1e4a9086933596a16dcb87c064aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Encrypted/ios.encrypted.unity3d/ios.encrypted.unity3d.bytes
+Dependencies: []

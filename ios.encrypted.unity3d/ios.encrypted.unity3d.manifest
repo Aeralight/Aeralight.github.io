@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 4069809729
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: encrypted/additive_scene_01.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: encrypted/additive_scene_02.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: encrypted/additive_scene_06.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: encrypted/casa.unity3d.hd
+      Dependencies: {}
+    Info_4:
+      Name: encrypted/casa.unity3d.sd
+      Dependencies: {}
+    Info_5:
+      Name: encrypted/casb.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: encrypted/ios.encrypted.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: encrypted/sphere.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: encrypted/tex12.unity3d.hd
+      Dependencies: {}
+    Info_9:
+      Name: encrypted/tex12.unity3d.sd
+      Dependencies: {}
+    Info_10:
+      Name: encrypted/tex34..unity3d.hd
+      Dependencies: {}
+    Info_11:
+      Name: encrypted/tex34..unity3d.sd
+      Dependencies: {}
+    Info_12:
+      Name: encrypted/tex56.unity3d.hd
+      Dependencies: {}
+    Info_13:
+      Name: encrypted/tex56.unity3d.sd
+      Dependencies: {}
+    Info_14:
+      Name: encrypted/casc/casc.unity3d
+      Dependencies: {}
