@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1298564493
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b756b372ba77ab8d7915acbcfa8823c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/SmartSceneChanger/Demo Samples/Scenes/Additive Scene 01.unity
+Dependencies:
+- /Volumes/MacHD/Unitymap/SmartSceneChanger05/Assets/AssetBundles/ios.encrypted.unity3d/tex34..unity3d.hd
+- /Volumes/MacHD/Unitymap/SmartSceneChanger05/Assets/AssetBundles/ios.encrypted.unity3d/tex56.unity3d.hd
+- /Volumes/MacHD/Unitymap/SmartSceneChanger05/Assets/AssetBundles/ios.encrypted.unity3d/tex12.unity3d.hd

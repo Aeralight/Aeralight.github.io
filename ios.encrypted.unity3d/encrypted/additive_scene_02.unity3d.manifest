@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2909263429
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fbd5c2edf82798cf3bb61861399a14e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Encrypted/ios.encrypted.unity3d/additive_scene_02.unity3d.bytes
+Dependencies: []
