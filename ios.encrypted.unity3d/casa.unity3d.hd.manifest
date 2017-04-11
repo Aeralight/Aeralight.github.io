@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2266231533
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4853cc2ff7c3bb47a434200a5ce3483
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bcc14ad35570ab9148378710358e24cb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 184
+  Script: {instanceID: 0}
+- Class: 185
+  Script: {instanceID: 0}
+- Class: 186
+  Script: {instanceID: 0}
+Assets:
+- Assets/SmartSceneChanger/Demo Samples/Prefabs/Cube and Sphere A.prefab
+- Assets/SmartSceneChanger/Demo Samples/Prefabs/ABCONE70_01.prefab
+Dependencies:
+- /Volumes/MacHD/MestsoMap2017/MetsoIpad2017/MetsoViewerMac550f3IpadSSC01/Assets/AssetBundles/ios.encrypted.unity3d/tex34..unity3d.hd
+- /Volumes/MacHD/MestsoMap2017/MetsoIpad2017/MetsoViewerMac550f3IpadSSC01/Assets/AssetBundles/ios.encrypted.unity3d/tex56.unity3d.hd
+- /Volumes/MacHD/MestsoMap2017/MetsoIpad2017/MetsoViewerMac550f3IpadSSC01/Assets/AssetBundles/ios.encrypted.unity3d/tex12.unity3d.hd
