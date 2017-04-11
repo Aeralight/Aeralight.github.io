@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2679450876
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3bb3341d0ef49adf87c5f1d8892c57a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/SmartSceneChanger/Demo Samples/Textures/dummy_5_sd.tga
+- Assets/SmartSceneChanger/Demo Samples/Textures/dummy_6_sd.tga
+Dependencies: []
