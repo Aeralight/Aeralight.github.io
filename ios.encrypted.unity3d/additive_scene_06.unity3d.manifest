@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4169246444
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35ae549d5f18b140d6de990f230e950b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/__TrellexABCONE70.unity
+Dependencies:
+- /Volumes/MacHD/MestsoMap2017/MetsoIpad2017/MetsoViewerMac550f3IpadSSC01/Assets/AssetBundles/ios.encrypted.unity3d/casb.unity3d
+- /Volumes/MacHD/MestsoMap2017/MetsoIpad2017/MetsoViewerMac550f3IpadSSC01/Assets/AssetBundles/ios.encrypted.unity3d/casa.unity3d.hd

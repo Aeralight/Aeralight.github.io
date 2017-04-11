@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3120482354
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80f2e1b246a459008f3801c93cec2676
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Encrypted/ios.encrypted.unity3d/tex34..unity3d.sd.bytes
+Dependencies: []
