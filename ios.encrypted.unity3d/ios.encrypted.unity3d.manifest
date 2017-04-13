@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 3209580442
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: encrypted/additive_scene_01.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: encrypted/additive_scene_02.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: encrypted/additive_scene_03.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: encrypted/additive_scene_04.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: encrypted/cube01.unity3d.hd
+      Dependencies: {}
+    Info_5:
+      Name: encrypted/cube01.unity3d.sd
+      Dependencies: {}
+    Info_6:
+      Name: encrypted/cube02.unity3d.hd
+      Dependencies: {}
+    Info_7:
+      Name: encrypted/cube02.unity3d.sd
+      Dependencies: {}
+    Info_8:
+      Name: encrypted/cube03.unity3d.hd
+      Dependencies: {}
+    Info_9:
+      Name: encrypted/cube03.unity3d.sd
+      Dependencies: {}
+    Info_10:
+      Name: encrypted/cube04.unity3d.hd
+      Dependencies: {}
+    Info_11:
+      Name: encrypted/cube04.unity3d.sd
+      Dependencies: {}
+    Info_12:
+      Name: encrypted/ios.encrypted.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: encrypted/sphere.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: encrypted/tex12.unity3d.hd
+      Dependencies: {}
+    Info_15:
+      Name: encrypted/tex12.unity3d.sd
+      Dependencies: {}
+    Info_16:
+      Name: encrypted/tex34..unity3d.hd
+      Dependencies: {}
+    Info_17:
+      Name: encrypted/tex34..unity3d.sd
+      Dependencies: {}
+    Info_18:
+      Name: encrypted/tex56.unity3d.hd
+      Dependencies: {}
+    Info_19:
+      Name: encrypted/tex56.unity3d.sd
+      Dependencies: {}
