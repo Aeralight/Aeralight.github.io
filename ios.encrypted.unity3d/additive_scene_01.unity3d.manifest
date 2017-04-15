@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 799261063
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc740400ae3f3c38f18fb5218ae2bb1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/SmartSceneChanger/Demo Samples/Scenes/Additive Scene 01.unity
+Dependencies:
+- /Volumes/MacHD/Unitymap/SmartSceneChanger08/Assets/AssetBundles/ios.encrypted.unity3d/abcone70a.unity3d.hd
