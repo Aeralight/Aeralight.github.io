@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1155792413
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 431f77c42e2ab121e4882302e0033f85
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1939d4ea6dfcd600283804284baefa18
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 184
+  Script: {instanceID: 0}
+- Class: 185
+  Script: {instanceID: 0}
+- Class: 186
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/ABCONE70_01.prefab
+Dependencies: []
