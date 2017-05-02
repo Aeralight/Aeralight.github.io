@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2806235777
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d00bf4a9bb04fb6de59a21e2c05f6a1a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Encrypted/ios.encrypted.unity3d/cube03.unity3d.sd.bytes
+Dependencies: []

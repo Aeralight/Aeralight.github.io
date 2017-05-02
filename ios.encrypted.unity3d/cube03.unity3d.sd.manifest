@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2087987477
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b767548ddaa518e0f9d39fbf1d5aad1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d4e22bca998c188582dba61b6c905222
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/SmartSceneChanger/Demo Samples/Prefabs/Cube03 SD.prefab
+Dependencies:
+- /Volumes/MacHD/Unitymap/SmartSceneChanger08/Assets/AssetBundles/ios.encrypted.unity3d/tex34..unity3d.hd
+- /Volumes/MacHD/Unitymap/SmartSceneChanger08/Assets/AssetBundles/ios.encrypted.unity3d/tex56.unity3d.hd
+- /Volumes/MacHD/Unitymap/SmartSceneChanger08/Assets/AssetBundles/ios.encrypted.unity3d/tex12.unity3d.hd
